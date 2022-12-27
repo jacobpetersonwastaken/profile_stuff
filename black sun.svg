@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 872 874.66">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 24px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-2 {
+        font-size: 14px;
+      }
+
+      .cls-3 {
+        font-size: 21px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-3" transform="translate(0 432.64)"><tspan x="0" y="0">1101011000001010010</tspan><tspan x="0" y="25.2">1100001001010001110</tspan></text>
+      <text class="cls-3" transform="translate(415.06 679.26)"><tspan x="0" y="0">110</tspan><tspan x="0" y="25.2">101</tspan><tspan x="0" y="50.4">100</tspan><tspan x="0" y="75.6">000</tspan><tspan x="0" y="100.8">101</tspan><tspan x="0" y="126">001</tspan><tspan x="0" y="151.2">011</tspan><tspan x="0" y="176.4">000</tspan></text>
+      <text class="cls-3" transform="translate(661.68 432.64)"><tspan x="0" y="0">1101011000001010010</tspan><tspan x="0" y="25.2">1100001001010001110</tspan></text>
+      <text class="cls-3" transform="translate(415.06 17.58)"><tspan x="0" y="0">110</tspan><tspan x="0" y="25.2">101</tspan><tspan x="0" y="50.4">100</tspan><tspan x="0" y="75.6">000</tspan><tspan x="0" y="100.8">101</tspan><tspan x="0" y="126">001</tspan><tspan x="0" y="151.2">011</tspan><tspan x="0" y="176.4">000</tspan></text>
+      <text class="cls-2" transform="translate(199.82 222.05)"><tspan x="0" y="0">1101</tspan><tspan x="16.8" y="16.8">0110</tspan><tspan x="33.6" y="33.6">0000</tspan><tspan x="50.4" y="50.4">1010</tspan></text>
+      <text class="cls-2" transform="translate(249 615.78)"><tspan x="0" y="0">1101</tspan><tspan x="-16.8" y="16.8">0110</tspan><tspan x="-33.6" y="33.6">0000</tspan><tspan x="-50.4" y="50.4">1010</tspan></text>
+      <text class="cls-2" transform="translate(593.91 615.41)"><tspan x="0" y="0">1101</tspan><tspan x="16.8" y="16.8">0110</tspan><tspan x="33.6" y="33.6">0000</tspan><tspan x="50.4" y="50.4">1010</tspan></text>
+      <text class="cls-1" transform="translate(411.51 280.74)"><tspan x="0" y="0">110</tspan><tspan x="-74.25" y="28.8">1011000001010010</tspan><tspan x="-106.8" y="57.6">110000100101000111011</tspan><tspan x="-127.43" y="86.4">110010100101010011000011</tspan><tspan x="-140.61" y="115.2">11101001011011101010000100</tspan><tspan x="-148.04" y="144">1001010101000110001001010010</tspan><tspan x="-149.87" y="172.8">1101101000010011100111011001</tspan><tspan x="-144.99" y="201.6">111000111000010100011100111</tspan><tspan x="-134.74" y="230.4">0100010011011010011011010</tspan><tspan x="-118.03" y="259.2">01100100011110100100011</tspan><tspan x="-92.29" y="288">111001101001001011</tspan><tspan x="-48.75" y="316.8">01111011011</tspan></text>
+      <text class="cls-2" transform="translate(642.36 221.69)"><tspan x="0" y="0">1101</tspan><tspan x="-16.8" y="16.8">0110</tspan><tspan x="-33.6" y="33.6">0000</tspan><tspan x="-50.4" y="50.4">1010</tspan></text>
+    </g>
+  </g>
+</svg>
