@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136.67 136.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" y="65.05" width="32.96" height="6.56"/>
+      <rect class="cls-1" x="65.05" y="103.7" width="6.56" height="32.96"/>
+      <rect class="cls-1" x="103.7" y="65.05" width="32.96" height="6.56"/>
+      <rect class="cls-1" x="65.05" width="6.56" height="32.96"/>
+      <rect class="cls-1" x="35.32" y="29.29" width="4.26" height="16.43" transform="translate(-15.55 37.47) rotate(-45)"/>
+      <rect class="cls-1" x="29.29" y="97.09" width="16.43" height="4.26" transform="translate(-59.17 55.58) rotate(-45)"/>
+      <rect class="cls-1" x="97.09" y="90.94" width="4.26" height="16.43" transform="translate(-41.06 99.2) rotate(-45)"/>
+      <ellipse class="cls-1" cx="68.33" cy="68.33" rx="27.45" ry="27.38" transform="translate(-28.3 68.39) rotate(-45.03)"/>
+      <rect class="cls-1" x="90.94" y="35.32" width="16.43" height="4.26" transform="translate(2.56 81.08) rotate(-45)"/>
+    </g>
+  </g>
+</svg>
